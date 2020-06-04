@@ -1,2 +1,4 @@
 # hello-world
-The Conventional First
+
+Hey everyone! 
+You already know why I'm doing this.
